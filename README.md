@@ -79,6 +79,9 @@ Connect with me:
 * 📧 Email: [saifuldev2011@gmail.com](mailto:saifuldev2011@gmail.com)
 * 🌐 Website: https://www.bijoylab.com
 * 📱 Mobile: +8801818650864
+* <a href="https://www.linkedin.com/in/saiful-islam-684a97108/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40"/>
+</a>
 
 ---
 
